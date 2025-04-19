@@ -69,7 +69,7 @@ Cool Factor: Socially relevant and less common among student projects.
 
 
 so yours fav ,please choose 2 so we can all choose one common best one..
-Lars : ?,?
+Lars : 1,3
 Dayeon: 
 Janice :
 Prateek :
