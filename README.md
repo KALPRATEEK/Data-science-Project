@@ -71,5 +71,5 @@ Cool Factor: Socially relevant and less common among student projects.
 so yours fav ,please choose 2 so we can all choose one common best one..
 Lars : 1,3
 Dayeon: 6 & 7
-Janice :
+Janice : 1 & 6
 Prateek :1 & 7
