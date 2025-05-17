@@ -4,7 +4,7 @@ import os
 tickers = [ "GC=F", "BTC-USD"]
 data = {}
 
-# Optional: create output directory
+
 output_dir = "stock_data"
 os.makedirs(output_dir, exist_ok=True)
 
