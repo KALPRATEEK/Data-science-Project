@@ -5,7 +5,7 @@ import pandas as pd
 tickers = ['AAPL', 'MSFT', 'AMZN', 'GOOGL', 'NVDA']
 
 # Download data
-data = yf.download(tickers, start='2024-11-1', end='2025-02-10', group_by='ticker')
+data = yf.download(tickers, start='2023-08-18', end='2024-03-18', group_by='ticker')
 
 # Save to CSV files (optional)
 for ticker in tickers:
