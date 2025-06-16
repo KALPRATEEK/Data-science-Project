@@ -14,6 +14,39 @@ Data collection : for all data sets using python inbuild library for Yahoo finan
 kw21: Janice & Lars
 Data Pre-processing and cleaning
 
+KW25:
+Combined script for all stocks in Jupyterhub:
+400 epochs batch size = 256
+
+result:
+Num GPUs Available: 1
+NVDA.csv: 104 samples
+META.csv: 104 samples
+AMZN.csv: 104 samples
+HOOD.csv: 104 samples
+TSLA.csv: 104 samples
+GOOGL.csv: 104 samples
+PLTR.csv: 104 samples
+AAPL.csv: 104 samples
+UBER.csv: 104 samples
+GC=F.csv: 104 samples
+BTC-USD.csv: 194 samples
+MSFT.csv: 104 samples
+Epoch 1/400
+
+Confusion Matrix:
+ [[48  4  5  2  0]
+ [ 2 47  1  5  0]
+ [ 1  4 42  1  1]
+ [ 1  1  5 46  3]
+ [ 1  3  1  8 43]]
+Per-class accuracy:
+Label 0 accuracy: 81.4%
+Label 1 accuracy: 85.5%
+Label 2 accuracy: 85.7%
+Label 3 accuracy: 82.1%
+Label 4 accuracy: 76.8%
+
 
 
 
